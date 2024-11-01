@@ -13,7 +13,7 @@ which aligns with business requirements for interpretability.
 
 
 
-*Conclusion *
+*Conclusion*
 
 Summary of Findings: 
 • The Random Forest model met performance goals with high accuracy and interpretability. It 
